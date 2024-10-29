@@ -2,5 +2,8 @@
   "mappings": [
     "/content/EDSUE/:/",
     "/content/EDSUE/configuration:/.helix/config.json"
+  ], 
+  "includes:" [
+    "/content/EDSUE/"
   ]
 }
